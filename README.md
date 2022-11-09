@@ -6,7 +6,7 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="right" alt="Fagner Farias" height="250" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/268139580086026240/1040029352173240350/Design_sem_nome_15.png">
+  <img align="right" alt="Fagner Farias" height="250" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/268139580086026240/1040036720432910416/6502421-01.png">
 </div>
   
   ##
